@@ -1,4 +1,6 @@
 This is a Simple Todo App where user can create a new Todo.
+We have use ReactJs and HTML5 to implement that application.
+
 User can also Edit the Todo and Delete aswell.
 
 
@@ -52,6 +54,11 @@ They will not be included in the production build so you can use them for things
 ## Project Setup
 
 In the project directory, you can run:
+
+### `clone the application`
+
+https://github.com/tbagchi85/todo-app.git
+
 
 ### `npm install`
 
